@@ -1,2 +1,2 @@
-# practica0_equipopau
-Repositorio para la Práctica 1: El juego de caos
+# Práctica 1: El juego de caos
+Repositorio para la Práctica 1
